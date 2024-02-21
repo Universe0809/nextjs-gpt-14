@@ -30,7 +30,7 @@ const Chat = () => {
             onChange={(e) => setText(e.target.value)}
           />
           <button className="btn btn-primary join-item" type="submit">
-            Ask Question
+            Ask Any Question
           </button>
         </div>
       </form>
